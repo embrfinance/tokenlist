@@ -1,98 +1,50 @@
 
     "result": {
-        "keywords": ["official", "default", "fuji"],
-        "logoURI": "https://storageapi.fleek.co/beethovenxfi-team-bucket/bethovenx-icon.png",
-        "name": "Avalance Fuji",
+        "keywords": ["official", "default", "avalanche"],
+        "logoURI": "https://app.embr.finance/embrspincoin.gif",
+        "name": "Avalance Main",
         "tags": {},
         "timestamp": "2021-10-06T18:18:18.181Z",
         "tokens": [
-        {
-            "address": "0xd00ae08403B9bbb9124bB305C09058E32C39A48c",
-            "chainId": 43113,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
-            "name": "WAVAX",
-            "symbol": "WAVAX"
-        },
-        {
-            "address": "0x4321b7e738075d7c7be3ca9f568cfa87412676e9",
-            "chainId": 43113,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png",
-            "name": "mock WAVAX",
-            "symbol": "mWAVAX"
-        },
-        {
-            "address": "0x05b2cc9a2212d3a9afb27e034c6922bcbb8defeb",
-            "chainId": 43113,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xdE61d83F83950fDe967BD2C68B1a9f64694F85Ff/logo.png",
-            "name": "mock JENKEM",
-            "symbol": "mJENKEM"
-        },
-        {
-            "address": "0xcbb327140E91039A3f4E8EcF144b0f12238D6fdd",
-            "chainId": 43113,
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png",
-            "name": "Blue",
-            "symbol": "BLUE"
-        },
-        {
-            "address": "0x4b20b17bdb9991a8549f5ceb8bd813419e537209",
-            "chainId": 43113,
-            "name": "DAI Stablecoin",
-            "symbol": "DAI.e",
-            "decimals": 18,
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/DAI/logo.png"
-        },
-        {
-            "address": "0xfb8fa9f5f0bd47591ba6f7c75fe519e3e8fde429",
-            "chainId": 43113,
-            "name": "USD Coin",
-            "symbol": "USDC.e",
-            "decimals": 6,
-            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
-        },
-        {
-            "address": "0xe7a282dA986F01dE6677250C90cE22A819CE9a9d",
-            "chainId": 43113,
+         {
+            "address": "0x9fba6aacb11010999355e60675a734278345b13c",
+            "chainId": 43114,
             "name": "Embr Token",
             "symbol": "EMBR",
             "decimals": 18,
             "logoURI": "https://cdn.discordapp.com/attachments/908453257393877072/912791521122746438/embr.png"
         },
         {
-            "address": "0xf1e1230f73ef0336770391f5B40e2DBb32CD7995",
-            "chainId": 43113,
-            "name": "Embr Token",
-            "symbol": "EMBRV2",
+            "address": "0xb31f66aa3c1e785363f0875a1b74e27b85fd66c7",
+            "chainId": 43114,
             "decimals": 18,
-            "logoURI": "https://cdn.discordapp.com/attachments/908453257393877072/912791521122746438/embr.png"
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0xB31f66AA3C1e785363F0875A1B74E27b85FD66c7/logo.png",
+            "name": "WAVAX",
+            "symbol": "WAVAX"
         },
         {
-            "address": "0x67Dbf145b8f3ecB9890CD08c352eCd3BE3900dcA",
-            "chainId": 43113,
-            "name": "Embr Token",
-            "symbol": "EMBRV3",
+            "address": "0xc12e249fabe1c5eb7c558e5f50d187687a244e31",
+            "chainId": 43114,
             "decimals": 18,
-            "logoURI": "https://cdn.discordapp.com/attachments/908453257393877072/912791521122746438/embr.png"
+            "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png",
+            "name": "Blue",
+            "symbol": "BLUE"
         },
         {
-            "address": "0xec3ffBcEF28e4e7A60D2c0f0f558e8a64c973f9D",
-            "chainId": 43113,
-            "name": "Embr Token",
-            "symbol": "EMBRV4",
+            "address": "0xd586e7f844cea2f87f50152665bcbc2c279d8d70",
+            "chainId": 43114,
+            "name": "DAI Stablecoin",
+            "symbol": "DAI.e",
             "decimals": 18,
-            "logoURI": "https://cdn.discordapp.com/attachments/908453257393877072/912791521122746438/embr.png"
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/DAI/logo.png"
         },
         {
-            "address": "0x6036617225ded90fCD43cb20731D0E41BcF4e3f0",
-            "chainId": 43113,
-            "name": "Embr Token",
-            "symbol": "EMBRV5",
-            "decimals": 18,
-            "logoURI": "https://cdn.discordapp.com/attachments/908453257393877072/912791521122746438/embr.png"
+            "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
+            "chainId": 43114,
+            "name": "USD Coin",
+            "symbol": "USDC.e",
+            "decimals": 6,
+            "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
         }
         ]
     }
