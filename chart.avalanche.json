@@ -1,8 +1,13 @@
 {
       "keywords": ["official", "default", "fuji"],
       "logoURI": "https://storageapi.fleek.co/beethovenxfi-team-bucket/bethovenx-icon.png",
-      "name": "Avalance Fuji",
+      "name": "Avalance",
       "tags": {},
+      "version": {
+          "major": 1,
+          "minor": 0,
+          "patch": 2
+      },
       "timestamp": "2021-10-06T18:18:18.181Z",
       "tokens": [
           {
@@ -222,4 +227,4 @@
               "logoURI": "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
           }
       ]
-  }
+}
