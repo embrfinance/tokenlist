@@ -213,7 +213,15 @@
                 "name": "Wrapped Ether",
                 "symbol": "WETH.e",
                 "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
-            }
+            },
+            {
+                "chainId": 43114,
+                "address": "0x9FBA6AacB11010999355E60675A734278345B13C",
+                "decimals": 18,
+                "name": "Embr",
+                "symbol": "EMBR
+                "logoURI": "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
+            },
         ]
     }
 }
