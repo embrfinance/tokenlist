@@ -10,6 +10,14 @@
       },
       "timestamp": "2021-10-06T18:18:18.181Z",
       "tokens": [
+           {
+              "chainId": 43114,
+              "address": "0x9FBA6AacB11010999355E60675A734278345B13C",
+              "decimals": 18,
+              "name": "Embr",
+              "symbol": "EMBR",
+              "logoURI": "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
+          },
           {
               "chainId": 43114,
               "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
@@ -18,20 +26,12 @@
               "symbol": "USDT.e",
               "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDT/logo.png"
           },
-          {
-              "chainId": 43114,
-              "address": "0xA7D7079b0FEaD91F3e65f86E8915Cb59c1a4C664",
-              "decimals": 6,
-              "name": "USD Coin (Wrapped)",
-              "symbol": "USDC.e",
-              "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
-          },
             {
                 "chainId": 43114,
                 "address": "0xa7d7079b0fead91f3e65f86e8915cb59c1a4c664",
                 "decimals": 6,
                 "name": "USD Coin",
-                "symbol": "USDC",
+                "symbol": "USDC.e",
                 "logoURI": "https://raw.githubusercontent.com/ava-labs/avalanche-bridge-resources/main/tokens/USDC/logo.png"
             },
           {
@@ -49,6 +49,30 @@
               "symbol": "MIM",
               "decimals": 18,
               "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x130966628846BFd36ff31a822705796e8cb8C18D/logo.png"
+          },
+                      {
+              "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
+              "chainId": 43114,
+              "name": "Avaware",
+              "symbol": "AVE",
+              "decimals": 18,
+              "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png"
+          },
+          {
+              "address": "0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31",
+              "chainId": 43114,
+              "name": "Blue Token",
+              "symbol": "BLUE",
+              "decimals": 18,
+              "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png"
+          },
+          {
+              "address": "0xdb333724fAE72b4253FC3d44c8270CBBC86d147b",
+              "chainId": 43114,
+              "name": "Cabbage.Cash",
+              "symbol": "CABAG",
+              "decimals": 18,
+              "logoURI": "https://raw.githubusercontent.com/qualitycabbage/token/main/logo.png"
           },
           {
               "address": "0x783C08b5F26E3daf8C4681F3bf49844e425b6393",
@@ -73,30 +97,6 @@
               "symbol": "PNG",
               "decimals": 18,
               "logoURI": "https://raw.githubusercontent.com/ava-labs/bridge-tokens/main/avalanche-tokens/0x60781C2586D68229fde47564546784ab3fACA982/logo.png"
-          },
-          {
-              "address": "0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE",
-              "chainId": 43114,
-              "name": "Avaware",
-              "symbol": "AVE",
-              "decimals": 18,
-              "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0x78ea17559B3D2CF85a7F9C2C704eda119Db5E6dE/logo.png"
-          },
-          {
-              "address": "0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31",
-              "chainId": 43114,
-              "name": "Blue Token",
-              "symbol": "BLUE",
-              "decimals": 18,
-              "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xc12e249FaBe1c5Eb7C558E5F50D187687a244E31/logo.png"
-          },
-          {
-              "address": "0xdb333724fAE72b4253FC3d44c8270CBBC86d147b",
-              "chainId": 43114,
-              "name": "Cabbage.Cash",
-              "symbol": "CABAG",
-              "decimals": 18,
-              "logoURI": "https://raw.githubusercontent.com/qualitycabbage/token/main/logo.png"
           },
           {
               "chainId": 43114,
@@ -225,14 +225,6 @@
               "name": "Wrapped Ether",
               "symbol": "WETH.e",
               "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
-          },
-          {
-              "chainId": 43114,
-              "address": "0x9FBA6AacB11010999355E60675A734278345B13C",
-              "decimals": 18,
-              "name": "Embr",
-              "symbol": "EMBR",
-              "logoURI": "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
           }
       ]
 }
