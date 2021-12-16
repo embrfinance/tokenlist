@@ -229,6 +229,14 @@
                 "name": "Embr",
                 "symbol": "EMBR",
                 "logoURI": "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
+            },
+            {
+                "chainId": 43114,
+                "address": "0x61ecd63e42c27415696e10864d70ecea4aa11289",
+                "decimals": 18,
+                "name": "RUGPULL",
+                "symbol": "RUGPULL",
+                "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/9e15c74107e98624abc234f0607948894d8db4a9/logos/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo.png"
             }
         ]
     }
