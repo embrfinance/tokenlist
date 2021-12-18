@@ -226,6 +226,14 @@
                 "chainId": 43114,
                 "address": "0x9FBA6AacB11010999355E60675A734278345B13C",
                 "decimals": 18,
+                "name": "Embr v1",
+                "symbol": "EMBR-OLD",
+                "logoURI": "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
+            },
+            {
+                "chainId": 43114,
+                "address": "0xD81D45E7635400dDD9c028839e9a9eF479006B28",
+                "decimals": 18,
                 "name": "Embr",
                 "symbol": "EMBR",
                 "logoURI": "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
