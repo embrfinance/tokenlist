@@ -11,13 +11,21 @@
       "timestamp": "2021-10-06T18:18:18.181Z",
       "tokens": [
            {
-              "chainId": 43114,
-              "address": "0x9FBA6AacB11010999355E60675A734278345B13C",
-              "decimals": 18,
-              "name": "Embr",
-              "symbol": "EMBR",
-              "logoURI": "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
-          },
+                "chainId": 43114,
+                "address": "0x9FBA6AacB11010999355E60675A734278345B13C",
+                "decimals": 18,
+                "name": "Embr v1",
+                "symbol": "EMBR-OLD",
+                "logoURI": "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
+            },
+            {
+                "chainId": 43114,
+                "address": "0xD81D45E7635400dDD9c028839e9a9eF479006B28",
+                "decimals": 18,
+                "name": "Embr",
+                "symbol": "EMBR",
+                "logoURI": "https://raw.githubusercontent.com/embrfinance/frontend-v2/embr-staging/src/embr/assets/images/embr.png"
+            },
           {
               "chainId": 43114,
               "address": "0xc7198437980c041c805A1EDcbA50c1Ce5db95118",
@@ -225,6 +233,22 @@
               "name": "Wrapped Ether",
               "symbol": "WETH.e",
               "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/main/logos/0x49D5c2BdFfac6CE2BFdB6640F4F80f226bc10bAB/logo.png"
-          }
+          },
+           {
+                "chainId": 43114,
+                "address": "0x61ecd63e42c27415696e10864d70ecea4aa11289",
+                "decimals": 18,
+                "name": "RUGPULL",
+                "symbol": "RUGPULL",
+                "logoURI": "https://raw.githubusercontent.com/traderjoe-xyz/joe-tokenlists/9e15c74107e98624abc234f0607948894d8db4a9/logos/0x61eCd63e42C27415696e10864d70ecEA4aA11289/logo.png"
+            },
+            {
+                "chainId": 43114,
+                "address": "0xCa7730D239f9fCA6d9683B0a62ed1A6c660D7CbA",
+                "decimals": 18,
+                "name": "Freebitcoins",
+                "symbol": "FREE",
+                "logoURI": "https://raw.githubusercontent.com/FreeBitcoins-com/tokens/main/assets/0xCa7730D239f9fCA6d9683B0a62ed1A6c660D7CbA/logo.png"
+            }
       ]
 }
