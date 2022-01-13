@@ -261,6 +261,14 @@
                 "name": "Freebitcoins",
                 "symbol": "FREE",
                 "logoURI": "https://raw.githubusercontent.com/FreeBitcoins-com/tokens/main/assets/0xCa7730D239f9fCA6d9683B0a62ed1A6c660D7CbA/logo.png"
+            },
+            {
+                "chainId": 43114,
+                "address": "0xbA5dC7e77d150816b758E9826fCad2D74820e379",
+                "decimals": 18,
+                "name": "WowneroX",
+                "symbol": "WOWX",
+                "logoURI": "https://raw.githubusercontent.com/pangolindex/tokens/main/assets/0xbA5dC7e77d150816b758E9826fCad2D74820e379/logo.png"
             }
         ]
     }
